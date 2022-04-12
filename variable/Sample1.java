@@ -14,7 +14,7 @@ public class Sample1 {
 		System.out.println(number);
 		System.out.println("number is the"+number);
 		System.out.println("number is the"+value);
-		
+		System.out.println("Hii good");
 	}
 
 }
